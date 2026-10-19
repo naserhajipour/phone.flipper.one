@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark rounded tile -->
+    <path
+        android:fillColor="#08090C"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Orange signal arcs -->
+    <path
+        android:strokeColor="#FF7A33"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,54 a16,16 0 0 1 32,0" />
+    <path
+        android:strokeColor="#FF7A33"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,54 a24,24 0 0 1 48,0" />
+    <!-- Cyan dot -->
+    <path
+        android:fillColor="#37D6DC"
+        android:pathData="M54,62 m-5,0 a5,5 0 1 1 10,0 a5,5 0 1 1 -10,0" />
+</vector>
